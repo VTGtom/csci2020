@@ -1,5 +1,6 @@
 package a1q1;
 import java.util.Scanner;
+//dont forgot u juicy
 
 public class Temperature {
 	private int fahrenheit;
